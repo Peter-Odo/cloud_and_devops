@@ -79,3 +79,23 @@ git add .                   # Stage all changes
 ```
 git commit -m "Describe your changes"
 ```
+
+#### Collaborating with GIT (BRANCHES)
+
+- What is a branch?: A branch is a pointer to a specific commit, allowing us to work features or fixes independently of the main codebase
+
+- Main branch (main, master, development, production): The default branch for production-ready code
+
+#### Workflow
+
+- create a branch
+
+```
+git branch <branch_name>
+```
+
+- switch to the Branching
+
+```
+git checkout <branch_name>
+```
