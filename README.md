@@ -80,6 +80,12 @@ git add .                   # Stage all changes
 git commit -m "Describe your changes"
 ```
 
+- Push changes
+
+```
+git push origin <branch_name>
+```
+
 #### Collaborating with GIT (BRANCHES)
 
 - What is a branch?: A branch is a pointer to a specific commit, allowing us to work features or fixes independently of the main codebase
